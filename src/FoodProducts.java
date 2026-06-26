@@ -10,6 +10,7 @@ public class FoodProducts extends Product {
         this.isPerishable = isPerishable;
     }
 
+
     @Override
     public boolean matches(String query) {
         if (status.toString().equals(query)) return true;

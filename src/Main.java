@@ -27,6 +27,7 @@ public class Main {
         System.out.println(wrh.recieveStock(pr1, 15, wr1));
         System.out.println(wr1.getStoredItems());
 
+
         System.out.println();
         System.out.println("-----------------------------------------------------");
         System.out.println();
